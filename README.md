@@ -1,10 +1,9 @@
 
 <!-- TOP BANNER: Upload your image to assets/coding-banner.png -->
 <p align="center">
-  <img src="assets/coding-banner.png"
-       alt="Developer typing on a laptop"
-       width="100%" />
+  <img src="./assets/coding-banner.png" alt="Developer typing on a laptop" width="100%" />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Mohasin Khan</h1>
 
