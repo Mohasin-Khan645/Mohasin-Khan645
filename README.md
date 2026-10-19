@@ -52,7 +52,7 @@ I'm an aspiring software developer passionate about building practical applicati
 ### 🌐 Backend Development & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,postgres,postman&perline=5" alt="Django, PostgreSQL and Postman" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,postgres,postman&perline=5" alt="Django, Node.js, Express.js, PostgreSQL and Postman" />
 </p>
 
 ### ☁️ Cloud & DevOps
