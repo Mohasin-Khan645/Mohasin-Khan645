@@ -46,7 +46,7 @@ I'm an aspiring software developer passionate about building practical applicati
 ### 👨‍💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c&perline=5" alt="Python and C" />
+  <img src="https://skillicons.dev/icons?i=python,java,c&perline=5" alt="Python, Java, C" />
 </p>
 
 ### 🌐 Backend Development & Databases
