@@ -58,7 +58,7 @@ I'm an aspiring software developer passionate about building practical applicati
 ### ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&perline=5" alt="AWS, Docker, Git, GitHub and Linux" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,github,linux&perline=5" alt="AWS, Terraform, Docker, Git, GitHub and Linux" />
 </p>
 
 ### ⚡ Data Streaming & Machine Learning
