@@ -61,14 +61,6 @@ I'm an aspiring software developer passionate about building practical applicati
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,github,linux&perline=5" alt="AWS, Terraform, Docker, Git, GitHub and Linux" />
 </p>
 
-### ⚡ Data Streaming & Machine Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-</p>
-
 ---
 
 ## 📂 Explore My Projects
